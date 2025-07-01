@@ -1,7 +1,9 @@
 package cafeTest;
 
 public class MaquinaDeCafe {
-
+	
+//TEST nueva funcionalidad
+	
     private Cafetera cafetera;
     public Vaso vasosPequeno;
     public Vaso vasosMediano;
